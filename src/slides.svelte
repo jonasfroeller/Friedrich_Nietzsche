@@ -3,9 +3,10 @@
 	import Media from '@lib/components/media.svelte'
 	import Notes from '@lib/components/notes.svelte'
 	import Split from '@lib/components/split.svelte'
+
+	import NietzscheImage from './lib/assets/Friedrich_Nietzsche.jpg';
 	import Icon from '@iconify/svelte'
-	
-	const STATIC_URL = '/static/'
+
 	let visible_quotes = 0
 </script>
 
@@ -17,7 +18,7 @@
 			<Split>
 				<Media
 					class="w-auto h-[60vh]"
-					src="{STATIC_URL}Friedrich_Nietzsche.jpg"
+					src={NietzscheImage}
 					alt="Friedrich_Nietzsche"
 					author="https://de.wikipedia.org/wiki/Friedrich_Hermann_Hartmann"
 					source="https://de.wikipedia.org/wiki/Datei:Nietzsche187a.jpg"
