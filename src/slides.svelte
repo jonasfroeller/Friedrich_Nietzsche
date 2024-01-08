@@ -52,15 +52,18 @@
 			</Split>
 
 			
-			<Notes>
+			<Notes><!-- 1 min 13 sec -->
+				[1 min 13 sec]<br><br>
+
 				Friedrich Nietzsche ist bis heute einer der einflussreichsten Denker.<br>
 				Friedrich Wilhelm, heißt er zu Ehren des preußischen Königs Friedrich Wilhelm IV.,<br>
 				an dessen Geburtstag er geboren wurde.<br>
 				Der deutsche Dichter & Denker inspiriert sicher viele Menschen mit seinem gut gepflegten Schnurrbart.<br>
-				Aber auch seine Werke, die er als Philosoph, Dichter und klassischer Philologe verfasste,<br>
+				Aber auch seine Werke, die er als Philosoph, Dichter und klassischer Philologe (Sprach- und Literaturwissenschaftler) verfasste,<br>
 				sind heute sehr bekannt und inspirieren auch sicherlich viele Menschen.<br>
 
-				Bekannt ist er vor allem für seine scharfe Moral- (genau so scharf wie sein Schnurrbart), Religions- und Kulturkritik.<br><br>
+				Bekannt ist Herr Nietzsche vor allem für seine scharfe Moral (strengen ethische Überzeugungen) - (genau so scharf wie sein Schnurrbart),<br>
+				seine Religions- und Kulturkritik.<br><br>
 				
 
 				~ Einleitung Leben ~<br>
@@ -75,7 +78,7 @@
 				auch viele andere Familienmitglieder waren protestantische Pfarrer.<br><br>
 				
 				Bereits mit zehn Jahren verfasste Nietzsche Gedichte und Kompositionen.<br>
-				Nietzsches Vater war evangelischer Pfarrer und starb 1849, als Nietzsche erst 5 Jahre alt war.<br>
+				Nietzsches Vater starb 1849, als Nietzsche erst 5 Jahre alt war.<br>
 				Die Familie zog daraufhin nach Naumburg.<br>
 				Anschließend wächst der intellektuell auffallend begabte Junge in einem reinen Frauenhaushalt auf,<br>
 				was uns zum Leben des Schriftstellers bringt.<br><br>
@@ -165,7 +168,9 @@
 				</Step>
 			</Stack>
 	
-			<Notes>
+			<Notes><!-- 3 min 44 sec -->
+				[4 min 57 sec]<br><br>
+				
 				Nietzsche wurde erst in einer privaten Einrichtung unterrichtet und ging dann ab 1854 auf das Dom-Gymnasium in Naumburg.<br>
 				Dort zeigte sich schnell seine intellektuelle Begabung.<br>
 				Das Erbe seiner Großmutter ermöglichte ihm in folge dessen eine eigene Wohnung.<br>
@@ -175,15 +180,14 @@
 				Gemeinsam mit seinen Freunden Pinder und Krug traf sich Nietzsche ab 1860 auf der Burgruine Schönburg,<br>
 				wo er mit ihnen über Literatur, Philosophie, Musik und Sprache diskutierte.<br>
 				Mit ihnen gründete er dort die künstlerisch-literarische Vereinigung „Germania“.<br> 
-				Die Gründungsfeier fand am 25. Juli 1860 statt.<br>
-				Gedichte, Kompositionen, Abhandlungen mussten regelmäßig geliefert werden.<br>
+				Die Gründungsfeier fand 1860 statt.<br>
+				Gedichte und Kompositionen mussten regelmäßig geliefert werden.<br>
 				Man wollte dann gemeinsam darüber diskutieren.“ Die Versammlungen fanden vierteljährlich statt.<br>
-				Auf ihnen wurden Vorträge gehalten.<br>
-				Bereits in dieser Zeit entwickelte Nietzsche seine Leidenschaft für die Musik Richard Wagners.<br>
+				Bereits in dieser Zeit entwickelte Nietzsche seine Leidenschaft für die Musik Richard Wagners (Wagner war einer von Hitlers liebsten Komponisten).<br>
 				1863 wurde die Germania aufgelöst, nachdem Pinder und Krug ihr Interesse daran verloren hatten.<br><br>
 
 				Sein Studium der klassischen Philologie begann er 1864 in Bonn.<br>
-				Bereits mit Mitte zwanzig erhält Nietzsche eine Professur für klassische Philologie in Basel.<br>
+				Bereits mit Mitte zwanzig erhält Nietzsche dann eine Professur für klassische Philologie.<br>
 				In dieser Zeit beginnt auch eine intensive, aber letztlich scheiternde Freundschaft mit Richard Wagner.<br>
 				Unter dessen Einfluss entsteht Nietzsches erstes bedeutendes Werk:<br>
 				"Die Geburt der Tragödie aus dem Geiste der Musik" (1872).<br><br>
@@ -193,8 +197,10 @@
 				als außerordentlicher Professor für klassische Philologie an die Universität Basel berufen.<br>
 				Zuvor war er noch preußischer Staatsbürger,<br>
 				nach seiner Übersiedlung in die Schweiz 1869 wurde er auf eigenen Wunsch hin staatenlos.<br>
-				Seine Erkenntnis des quantitierenden Prinzips in der antiken Metrik war bedeutend.<br>
-				In dieser Zeit entwickelte sich seine Freundschaft mit Richard Wagner.<br>
+				Seine Erkenntnis des quantitierenden Prinzips in der antiken Metrik war bedeutend. (regelmäßiger Wechsel von langen und kurzen Silben in Versen)<br>
+				Nietzsche fand übrigens, dass Universitäten schlecht für uns Menschen sind, nur trockene akademische Übung, keine Anleitung zum Leben.<br><br>
+				In dieser Zeit entwickelte sich seine Freundschaft mit Richard Wagner.<br><br>
+				
 				Ab 1871 verschlechterte sich sein Gesundheitszustand durch ein Augenleiden,<br>
 				das nicht nur mit viel Schmerzen verbunden war,<br>
 				sondern auch mit fast vollständiger Erblindung.<br>
@@ -204,25 +210,26 @@
 				~ Freier Philosoph (1879-1889) ~<br>
 				Nach seiner Pensionierung nur 10 Jahre später aufgrund gesundheitlicher Probleme 1879,<br>
 				reiste Nietzsche als freier Autor und lebte von seiner Pension.<br>
-				Von nun an bereiste er - auf der Suche nach Orten, deren Klima sich günstig auf seine diversen Leiden auswirken sollte<br>
+				Er bereiste Orten, von denen er hoffte, deren Klima würde sich günstig auf seine diversen Leiden auswirken<br>
 				- vor allem Italien und die Schweiz.<br>
-				Die Sommer verbrachte er in Sils Maria und die Winter in Italien.<br>
+				Die Sommer verbrachte er in Sils Maria, Schweiz und die Winter in Italien.<br>
 				Er brach mit Wagner und Schopenhauer, knüpfte 1882 Bekanntschaft mit Lou von Salomé<br>
 				und veröffentlichte 1883 "Also sprach Zarathustra".<br>
-				Nietzsche verliebte sich schließlich in Lou von Salomé. Salomé wies ihn jedoch ab. Lou von Salomé endete somit 1883.<br><br>
+				Nietzsche verliebte sich schließlich in Lou von Salomé. Salomé wies ihn jedoch ab. Die Freundschaft mit Lou von Salomé endete somit 1883.<br><br>
 
 				~ In geistiger Umnachtung (Die Zeit, in der er nicht ganz bei klarem Verstand war) (1889-1900) ~<br>
-				Nietzsche gesundheitliche Konstitution ist zeitlebens fragil, immer wieder quälen ihn heftige Migräneanfälle.<br>
+				Nietzsches gesundheitlicher Zustand ist zeitlebens fragil, immer wieder quälen ihn heftige Migräneanfälle.<br>
 				Ab seinem 45. Lebensjahr (1889) litt er unter zunehmenden psychischen Störungen,<br>
 				die ihn arbeits- und geschäftsunfähig machten.<br>
-				Die letzten 12 Jahre seines Lebens verbringt er in geistiger Umnachtung.<br> 
+				Die letzten 12 Jahre seines Lebens verbringt er in geistiger Umnachtung (nicht bei klarem Verstand).<br> 
 				Seinen Anfang der 1890er Jahre einsetzenden Ruhm erlebte er nicht mehr bewusst.<br>
 				Am 3. Januar 1889 erlitt Nietzsche einen Zusammenbruch in Turin.<br>
 				Er wurde in verschiedenen Anstalten untergebracht. Er konnte kurze Gespräche führen, erkannte aber oft niemanden.<br>
-				Sein Gesundheitszustand verschlechterte sich weiter.<br>
+				Sein Gesundheitszustand verschlechterte sich weiter.<br><br>
+				
 				Den Rest seines Lebens verbrachte er als Pflegefall in der Obhut zunächst seiner Mutter, dann seiner Schwester<br>
 				in der Villa Silberblick in Weimar.<br>
-				Er starb am 25. August 1900 stirbt er im Alter von 55 Jahren an Pneumonie und einem Schlaganfall.<br><br>
+				Er starb am 25. August 1900 im Alter von 55 Jahren an Pneumonie (Lungenentzündung) und einem Schlaganfall.<br><br>
 				
 				Die Vermutung, die Spätfolgen einer Syphilis könnten beim Krankheitsverlauf eine Rolle gespielt haben,<br>
 				hielt sich gut 100 Jahre.<br>
@@ -230,7 +237,8 @@
 				Das ist eine genetische Erkrankung, die zu familiär gehäuften Schlaganfällen im mittleren Lebensalter führen kann.<br><br>
 
 				Er hinterlässt ein sprachlich brillantes, oft widersprüchliches Werk,<br>
-				das von den Nationalsozialisten vereinnahmt wurde, aber auch linke Theoretiker wie Michel Foucault beeinflusste.<br><br>
+				das von den Nationalsozialisten vereinnahmt wurde, aber auch linke Theoretiker wie Michel Foucault beeinflusste.<br>
+				Das ist nicht der mit dem Pendel, der Léon heißt, sondern ein Philosoph.<br><br>
 
 				Seine Schwester Elisabeth Förster-Nietzsche übernahm die Kontrolle über seinen Nachlass.
 			</Notes>
@@ -321,12 +329,14 @@
 				</Step>
 			</Stack>
 
-			<Notes>
+			<Notes><!-- 2 min 37 sec -->
+				[7 min 34 sec]<br><br>
+				
 				Nietzsche verstand sich nicht gut mit seiner Familie. Frauen lehnten ihn ab.<br>
 				Er war ein Außenseiter, von schwächlicher Körpergestalt, ein Einzelgänger,<br>
 				der die Menschen mied und sich ungewandt in der Welt bewegt<br>
 				und sich nicht an die Normen seiner Zeit hielt.<br>
-				Er verfolgte eine Philosophie von Heldentum und Größe, von Selbstüberwindung.<br><br> 
+				Er verfolgte eine Philosophie der Selbstüberwindung.<br><br> 
 				
 				Nietzsche interessierte sich für alles außer Mathematik.<br>
 				Die Religion war ihm die „Grundveste alles Wissens!“ und die „Grundlage des Staates“.<br>
@@ -358,17 +368,17 @@
 				Heute gilt er manchen als Begründer einer neuen philosophischen Schule, der Lebensphilosophie.<br><br>
 	
 				Den jungen Nietzsche beeindruckte besonders die Philosophie Schopenhauers.<br>
-				Später wandte er sich von dessen Pessimismus ab. Sein Werk enthält scharfe Kritiken an<br>
+				Später wandte er sich von dessen Pessimismus ab. Sein Lebenswerk enthält scharfe Kritiken an<br>
 				Moral, Religion, Philosophie, Wissenschaft und Formen der Kunst.<br>
 				Die zeitgenössische Kultur war in seinen Augen lebensschwächer als die des antiken Griechenlands.<br>
-				Wiederkehrendes Ziel von Nietzsches Angriffen sind vor allem die christliche Moral<br>
-				sowie die christliche und platonistische Metaphysik.<br>
-				Er stellte den Wert der Wahrheit überhaupt in Frage und wurde damit Wegbereiter postmoderner philosophischer Ansätze.<br>
-				Auch Nietzsches Konzepte des „Übermenschen“,<br>
-				des „Willens zur Macht“ oder der „ewigen Wiederkunft“ geben bis heute Anlass zu Deutungen und Diskussionen.<br><br>
+				Wiederkehrendes Ziel von Nietzsches Kritiken sind vor allem die christliche Moral<br>
+				sowie die christliche und platonistische Metaphysik (Grieche Platon: Ideen existieren unabhängig von der materiellen Welt und sind ewig und unveränderlich.).<br>
+				Er stellte den Wert der Wahrheit überhaupt in Frage und wurde damit Wegbegleiter postmoderner philosophischer Ansätze.<br><br>
+				<!-- Auch Nietzsches Konzepte des „Übermenschen“,<br>
+				des „Willens zur Macht“ oder der „ewigen Wiederkunft“ geben bis heute Anlass zu Deutungen und Diskussionen.<br><br> -->
 	
-				Nietzsche schuf keine systematische Philosophie. Oft wählte er den Aphorismus als Ausdrucksform seiner Gedanken.<br>
-				Seine Prosa, seine Gedichte und der pathetisch-lyrische Stil von<br>
+				Nietzsche schuf keine systematische Philosophie. Oft wählte er den Aphorismus (selbständiger einzelner Gedanke, ein Urteil oder eine Lebensweisheit.) als Ausdrucksform seiner Gedanken.<br>
+				Seine Prosa (trockene, nüchterne Darstellung), seine Gedichte und der pathetisch-lyrische (intensive Gefühle und poetische Ausdrucksweise) Stil von<br>
 				"Also sprach Zarathustra" verschafften ihm auch als Schriftsteller Anerkennung.<br>
 				Im Nebenwerk schuf er zudem musikalische Kompositionen.<br><br>
 				
@@ -410,10 +420,12 @@
 				"Die Praxis des Christenthums ist keine Phantasterei, so wenig die Praxis des Buddhismus sie ist: sie ist ein Mittel; glücklich zu sein …"
 			</blockquote>
 
-			<Notes>
+			<Notes><!-- 37 sec -->
+				[8 min 11 sec]<br><br>
+				
 				Nietzsche drückt in seinen autobiographischen Aufzeichnungen tief empfundene Religiosität aus, indem er sich von Gott wie ein Kind von seinem Vater geleitet fühlt.<br>
 				Die Beziehung zwischen Schopenhauer und dem Buddhismus beeinflusst auch Nietzsche, der sich in Briefen sogar mit Buddha identifiziert.<br>
-				Seine Haltung zum Buddhismus ist ambivalent, von kritischer Analyse bis zur Integration buddhistischer Konzepte in seine Philosophie.<br>
+				Seine Haltung zum Buddhismus ist ambivalent (mehrdeutig), von kritischer Analyse bis zur Integration buddhistischer Konzepte in seine Philosophie.<br>
 				In verschiedenen Werken, nicht nur Briefen, zeigt Nietzsche seine Auseinandersetzung mit dem Buddhismus, wie etwa in einem Zitat aus "Die fröhliche Wissenschaft" von 1882.<br>
 				Dies verdeutlicht die Vielschichtigkeit seiner Beziehung zu diesem Thema.<br><br>
 
@@ -459,36 +471,36 @@
 			</blockquote>
 			
 
-			<Notes>
+			<Notes><!-- 3 min 6 sec -->
+				[11 min 26 sec]<br><br>
+				
 				Selbstüberwindung & Übermensch<br><br>
 
 				Nietzsches Ideal des Übermenschen war in vielen Aspekten das Gegenteil von ihm selbst.<br>
 				Diese Vorstellung führte nicht nur zu einem fiktiven Dasein,<br>
 				sondern schuf auch einen Mythos seiner eigenen Person durch die Idee des Übermenschen.<br><br>
 
-				Unter dem Einfluss von Charles Darwins zeitgenössischer Selektionstheorie verbreitete Nietzsche die Philosophie des "Übermenschen",<br>
-				die von den Nationalsozialisten übernommen werden sollte. In seinem Hauptwerk "Also sprach Zarathustra"<br><br>
+				Unter dem Einfluss von Charles Darwins zeitgenössischer Selektionstheorie und Schopenhauers Willensmetaphysik verbreitete Nietzsche die Philosophie des "Übermenschen",<br>
+				die von den Nationalsozialisten übernommen werden sollte. In seinem Hauptwerk "Also sprach Zarathustra"<br>
 				erklärt Friedrich Wilhelm Nietzsche die Phasen der menschlichen Entwicklung, die mit der Rückbesinnung auf eigene Werte enden.<br><br>
 
 				Sein Werk "Die Fröhliche Wissenschaft" (1882), das 1886 in seiner endgültigen Form vorlag, diente als Vorstufe zu seinem Hauptwerk<br>
 				"Also sprach Zarathustra. Ein Buch für alle und Keinen" (erster Teil 1883). Dort beschreibt er die drei Entwicklungsstufen des Menschen,<br>
-				die mit Abhängigkeit beginnen, sich zu erkämpfter Freiheit fortsetzen und in eigenen Werten enden. Ursprünglich sollte sein Hauptwerk<br>
+				die mit Abhängigkeit beginnen, sich zu erkämpfter Freiheit fortsetzen und in eigenen Werten enden.<!-- Ursprünglich sollte sein Hauptwerk<br>
 				"Der Wille zur Macht" sein, jedoch kam die Arbeit über eine Vielzahl von Aphorismen und Notizen, die von seiner Schwester<br>
-				Elisabeth Förster-Nietzsche herausgegeben wurden, nicht hinaus. Nietzsches philosophische Auffassung war stark von Darwins Selektionstheorie<br>
-				und Schopenhauers Willensmetaphysik geprägt, die die Grundlage für seine Vorstellung vom Übermenschen bildeten,<br>
-				der alles Krankhafte auslöschen sollte.<br><br>
+				Elisabeth Förster-Nietzsche herausgegeben wurden, nicht hinaus. --> <br><br>
 
-				Für Nietzsche konkretisierte sich der Übermensch in den Herrenmenschen der Renaissance, wie zum Beispiel in Cesare Borgia.<br>
+				<!-- Für Nietzsche konkretisierte sich der Übermensch in den Herrenmenschen der Renaissance, wie zum Beispiel in Cesare Borgia.<br>
 				Das Christentum machte er für eine "Sklavenmoral" verantwortlich, weswegen er es ablehnte.<br>
 				Die bürgerliche Moral bezeichnete er als verlogen,<br>
-				und das Hohe sah er durch den Pöbel gefährdet. In seiner Metaphysik begründete Nietzsche alles Dasein<br>
+				und das Hohe sah er durch den Pöbel gefährdet. --> In seiner Metaphysik begründete Nietzsche alles Dasein<br>
 				als eine durch den Machtwillen geschaffene Erscheinungsform.<br>
 				Das menschliche Dasein betrachtete er als eine "ewige Wiederkehr",<br>
 				die unausweichlich ist. Aufgrund dieser Unausweichlichkeit riet er dazu, dem Schicksal zu folgen,<br>
 				da es keine andere Möglichkeit<br>
-				für den Menschen gibt. In seiner Amor-fati-Formel liegt die freudige Anerkennung des bestehenden Daseins.<br>
+				für den Menschen gibt. In seiner Amor-fati-Formel (Liebe zum Schicksal) liegt die freudige Anerkennung des bestehenden Daseins.<br>
 				Nietzsche wehrte sich gegen spekulatives Denken, was auch seine eigentliche Bedeutung als Philosoph ausmacht.<br>
-				Darüber hinaus erreichte er vor allem Geltung, indem er stets dafür plädierte, das Denken in das Leben einzubeziehen.<br><br>
+				Darüber hinaus plädierte er immer wieder dafür, das Denken in das Leben einzubeziehen.<br><br>
 
 				Neid:<br>
 				- Nietzsche akzeptiert Neid als Teil des Lebens<br>
@@ -496,14 +508,9 @@
 				- Neid als Anzeichen für Potenzial, nicht als Böses<br><br>
 
 				Christen:<br>
-				- Kritik am Christentum, besonders der Sklavenmoral<br>
-				- Christen (Heerde) wollen Erfüllung, sind aber unfähig, sie zu erreichen<br>
-				- Christliche Werte als Leugnung und Heuchelei<br>
-				- Nietzsche fordert einen heroischen Kampf für wahre Wünsche<br><br>
-
-				Er lehnte das Christentum ab mit der Begründung, dass es eine "Sklavenmoral" schaffe. Nietzsches Bedeutung liegt darin,<br>
-				dass er das spekulative Denken ablehnte und das Denken überhaupt in das Leben einbezog.<br>
-				Er war ein glänzender Essayist und einer der bedeutendsten Aphoristiker, der außerordentliche Sprachschöpfungen schuf...<br><br>
+				- Kritik am Christentum, besonders der Sklavenmoral (Werte wie Mitgefühl, Bescheidenheit und Mäßigung werden als tugendhaft gesehen)<br>
+				- Christen wollen Erfüllung, sind aber unfähig, sie zu erreichen<br>
+				- Christliche Werte als Leugnung und Heuchelei<br><br>
 				
 				Alkohol:<br>
 				- Nietzsche trank nur Wasser und Milch<br>
@@ -517,8 +524,6 @@
 				- Skepsis gegenüber der Handhabung von Kultur in seiner Epoche<br>
 				- Forderung nach Reformation, Nutzung von Philosophie und Kunst als Anleitung zum Leben<br>
 				- Nietzsche als reizender, faszinierender Ratgeber, trotz Herausforderungen seiner Zeit<br><br>
-
-				Nietzsche findet, dass Universitäten schlecht für uns Menschen sind, trockene akademische Übung, keine Anleitung zum Leben.<br><br>
 
 				"Es gab zwei große Betäubungsmittel in der europäischen Zivilisation: das Christentum und Alkohol."<br>
 				Beide betäuben Schmerz und sorgen dafür, dass man sich zwar besser fühlt, aber nicht wirklich besser ist.
@@ -555,7 +560,7 @@
 				<tr>
 					<td>Menschliches, Allzumenschliches</td>
 					<td>1878</td>
-					<td>Aphorismen, Abwendung vom romantischen Denken</td>
+					<td>Abwendung vom romantischen Denken</td>
 				</tr>
 				<tr>
 					<td>Die fröhliche Wissenschaft</td>
@@ -579,10 +584,12 @@
 				</tr>
 			</table>
 
-			<Notes>
+			<Notes><!-- 1 min 6 sec -->
+				[12 min 32 sec]<br><br>
+				
 				Nietzsches Werke sind leicht zu lesen. Man braucht keine philosophische Vorbildung, um sie zu verstehen.<br>
 				1872 erschien seine erste Veröffentlichung "Die Geburt der Tragödie aus dem Geist der Musik",<br>
-				die vor den Augen seines Lehrers Ritschl kein gutes Urteil erhielt.<br><br>
+				die vor den Augen seines Lehrers Ritschl kein gutes Urteil erhielt.<br><br><br><br><br><br><br><br><br>
 
 				Interessante Aspekte:<br>
 				Die Geburt der Tragödie (1872):<br>
@@ -650,7 +657,9 @@
 				</blockquote>
 			</Step>			
 
-			<Notes>
+			<Notes><!-- 22 sec -->
+				[12 min 54 sec]<br><br>
+				
 				Nietzsche verfasste einige provokative Äußerungen und einige Zitate möchte ich euch jetzt gerne vorlesen:<br><br>
 				
 				"Was mich nicht umbringt, macht mich stärker."<br>
@@ -723,8 +732,10 @@
 				</Stack>
 			</Split>
 
-			<Notes>
-				Musik: Nach Texten von Friedrich Nietzsche wurden einige Kompositionen geschaffen. Er komponierte auch selber.<br>
+			<Notes><!-- 37 sec -->
+				[13 min 31 sec]<br><br>
+
+				Nach Texten von Friedrich Nietzsche wurden einige musikalische Kompositionen geschaffen. Er komponierte auch selber.<br>
 				Belletristik (Unterhaltungsliteratur), Filme, Hörspiele, Porträts und Skulpturen: darunter Totenmasken und Büste<br>
 				sowie mehr als zehn Fotografien zwischen 1862 und 1900.<br>
 				Auch Briefmarken wurden ihm gewidmet. Und es gibt einige Gedenkstätten.<br><br>
@@ -780,19 +791,21 @@
 			</Step>
 
 
-			<Notes>
+			<Notes><!-- 41 sec -->
+				[14 min 12 sec]<br><br>
+				
 				Therese Elisabeth Alexandra Nietzsche (* 10. Juli 1846 in Röcken; † 8. November 1935 in Weimar),<br>
 				bekannt als Elisabeth Förster-Nietzsche,<br>
-				war die Schwester des Philosophen Friedrich Nietzsche. Als alleinige Nachlassverwalterin<br>
+				war die Schwester des Philosophen Friedrich Nietzsche. Als alleinige Nachlassverwalterin (0)<br>
 				ihres Bruders und Gründerin und Leiterin des Weimarer <br>
-				„Nietzsche-Archivs“ nahm sie in der ersten Hälfte des 20. Jahrhunderts erheblichen Einfluss<br>
+				„Nietzsche-Archivs“ (1) nahm sie in der ersten Hälfte des 20. Jahrhunderts erheblichen Einfluss<br>
 				auf den Nietzsche-Kult in Deutschland.<br><br>
 	
-				Nach dem Zweiten Weltkrieg wurden ihre Fälschungen an Nietzsches Schriften und Briefen bekannt.<br>
+				Nach dem Zweiten Weltkrieg wurden ihre Fälschungen an Nietzsches Schriften und Briefen bekannt. (2)<br>
 				Sie wird für bestimmte Deutungen der Philosophie ihres Bruders,<br>
-				besonders jene im Nationalsozialismus, verantwortlich gemacht und kritisiert. Das von ihr verbreitete Nietzsche-Bild kam<br>
+				besonders jene im Nationalsozialismus, verantwortlich gemacht und kritisiert (3). Das von ihr verbreitete Nietzsche-Bild kam<br>
 				jedoch dem damaligen Zeitgeist entgegen und wurde von zahlreichen Gelehrten und Literaten weitgehend geteilt.<br>
-				Vermutlich entpuppten sich die Fälschungen als nicht echt, weil sie nicht mehr in den Zeitgeist nach dem 2. Weltkrieg passten.
+				Vermutlich entpuppten sich die Fälschungen also als nicht echt, weil sie nicht mehr in den Zeitgeist nach dem 2. Weltkrieg passten.
 			</Notes>
 		</section>
 	</Slide>
@@ -818,7 +831,9 @@
 				</div>
 			</div>
 
-			<Notes>
+			<Notes><!-- 3 sec -->
+				[14 min 15 sec]<br><br>
+				
 				Quellenhölle: Eine Quelle sagt dies, eine sagt das. Ich liebe es zu recherchieren :/.
 			</Notes>
 		</section>
@@ -835,3 +850,5 @@
 		</section>
 	</Slide>
 </Presentation>
+
+<!-- geschätzte Zeit: 10 min 284 sec => 14 min 44 sec -->
