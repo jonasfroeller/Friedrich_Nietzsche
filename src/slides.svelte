@@ -171,6 +171,7 @@
 			<Notes><!-- 3 min 44 sec -->
 				[4 min 57 sec]<br><br>
 				
+				(0)<br>
 				Nietzsche wurde erst in einer privaten Einrichtung unterrichtet und ging dann ab 1854 auf das Dom-Gymnasium in Naumburg.<br>
 				Dort zeigte sich schnell seine intellektuelle Begabung.<br>
 				Das Erbe seiner Großmutter ermöglichte ihm in folge dessen eine eigene Wohnung.<br>
@@ -192,6 +193,7 @@
 				Unter dessen Einfluss entsteht Nietzsches erstes bedeutendes Werk:<br>
 				"Die Geburt der Tragödie aus dem Geiste der Musik" (1872).<br><br>
 
+				(1)<br>
 				~ Professor an der Universität Basel (1869-1879) ~<br>
 				1869 wurde Nietzsche auf Empfehlung seines Lehrers Friedrich Ritschl<br>
 				als außerordentlicher Professor für klassische Philologie an die Universität Basel berufen.<br>
@@ -207,6 +209,7 @@
 				In dieser Zeit veröffentlichte er beispielsweise "Die Geburt der Tragödie" (1872).<br>
 				1873 lernte er Bertha Rohr kennen. Es ist nicht klar ob sie eine Beziehung hatten.<br><br>
 
+				(2)<br>
 				~ Freier Philosoph (1879-1889) ~<br>
 				Nach seiner Pensionierung nur 10 Jahre später aufgrund gesundheitlicher Probleme 1879,<br>
 				reiste Nietzsche als freier Autor und lebte von seiner Pension.<br>
@@ -217,6 +220,7 @@
 				und veröffentlichte 1883 "Also sprach Zarathustra".<br>
 				Nietzsche verliebte sich schließlich in Lou von Salomé. Salomé wies ihn jedoch ab. Die Freundschaft mit Lou von Salomé endete somit 1883.<br><br>
 
+				(3)<br>
 				~ In geistiger Umnachtung (Die Zeit, in der er nicht ganz bei klarem Verstand war) (1889-1900) ~<br>
 				Nietzsches gesundheitlicher Zustand ist zeitlebens fragil, immer wieder quälen ihn heftige Migräneanfälle.<br>
 				Ab seinem 45. Lebensjahr (1889) litt er unter zunehmenden psychischen Störungen,<br>
@@ -273,8 +277,7 @@
 						<h1>Person</h1>
 						<ul>
 							<li>Interesse an allem außer Mathematik.</li>
-							<li>Religion als Wissensgrund, Staat.</li>
-							<li>Lehnte Evolutionstheorie ab.</li>
+							<li>Religion als „Grundveste alles Wissens!“ und die „Grundlage des Staates“</li>
 						</ul>
 					</div>
 				</Step>
@@ -288,7 +291,6 @@
 							<li>Christlich-geprägte „Sklavenmoral“ schädlich.</li>
 							<li>Bejahung des Lebens, Streben nach Exzellenz.</li>
 							<li>„Übermensch“ in Zarathustra (1883-1885).</li>
-							<li>Offen für unterschiedliche Interpretationen.</li>
 							<li>„Herrenmensch“ vs. persönliche Vervollkommnung.</li>
 						</ul>
 					</div>
@@ -312,7 +314,6 @@
 							<li>Kritik an Moral, Religion, Kunst.</li>
 							<li>Zeitgenössische Kultur lebensschwach.</li>
 							<li>Wert der Wahrheit in Frage.</li>
-							<li>Konzepte: „Übermensch“, „Willens zur Macht“.</li>
 						</ul>
 					</div>
 				</Step>
@@ -332,16 +333,18 @@
 			<Notes><!-- 2 min 37 sec -->
 				[7 min 34 sec]<br><br>
 				
+				(0)<br>
 				Nietzsche verstand sich nicht gut mit seiner Familie. Frauen lehnten ihn ab.<br>
 				Er war ein Außenseiter, von schwächlicher Körpergestalt, ein Einzelgänger,<br>
 				der die Menschen mied und sich ungewandt in der Welt bewegt<br>
 				und sich nicht an die Normen seiner Zeit hielt.<br>
 				Er verfolgte eine Philosophie der Selbstüberwindung.<br><br> 
 				
+				(1)<br>
 				Nietzsche interessierte sich für alles außer Mathematik.<br>
 				Die Religion war ihm die „Grundveste alles Wissens!“ und die „Grundlage des Staates“.<br>
-				Die Evolutionstheorie lehnte er ab.<br><br>
 
+				(2)<br>
 				In seinen Schriften wie etwa der Genealogie der Moral (1887)<br>
 				kritisiert Nietzsche gängige Wertvorstellungen.<br>
 				Für ihn haben Ideale wie Gleichheit oder Mitleid keine objektive Gültigkeit.<br>
@@ -363,10 +366,12 @@
 				während andere hier eine Aufforderung zu persönlicher Vervollkommnung sahen,<br>
 				die sich an jeden richtet.<br><br>
 				
+				(3)<br>
 				Nietzsche sprengte sowohl mit seinem Denken als auch mit seinem Stil bis dahin<br>
 				gängige Muster und ließ sich zunächst keiner klassischen Disziplin zuordnen.<br>
 				Heute gilt er manchen als Begründer einer neuen philosophischen Schule, der Lebensphilosophie.<br><br>
 	
+				(4)<br>
 				Den jungen Nietzsche beeindruckte besonders die Philosophie Schopenhauers.<br>
 				Später wandte er sich von dessen Pessimismus ab. Sein Lebenswerk enthält scharfe Kritiken an<br>
 				Moral, Religion, Philosophie, Wissenschaft und Formen der Kunst.<br>
@@ -374,9 +379,8 @@
 				Wiederkehrendes Ziel von Nietzsches Kritiken sind vor allem die christliche Moral<br>
 				sowie die christliche und platonistische Metaphysik (Grieche Platon: Ideen existieren unabhängig von der materiellen Welt und sind ewig und unveränderlich.).<br>
 				Er stellte den Wert der Wahrheit überhaupt in Frage und wurde damit Wegbegleiter postmoderner philosophischer Ansätze.<br><br>
-				<!-- Auch Nietzsches Konzepte des „Übermenschen“,<br>
-				des „Willens zur Macht“ oder der „ewigen Wiederkunft“ geben bis heute Anlass zu Deutungen und Diskussionen.<br><br> -->
 	
+				(5)<br>
 				Nietzsche schuf keine systematische Philosophie. Oft wählte er den Aphorismus (selbständiger einzelner Gedanke, ein Urteil oder eine Lebensweisheit.) als Ausdrucksform seiner Gedanken.<br>
 				Seine Prosa (trockene, nüchterne Darstellung), seine Gedichte und der pathetisch-lyrische (intensive Gefühle und poetische Ausdrucksweise) Stil von<br>
 				"Also sprach Zarathustra" verschafften ihm auch als Schriftsteller Anerkennung.<br>
