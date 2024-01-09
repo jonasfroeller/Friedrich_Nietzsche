@@ -357,7 +357,16 @@
 				"Also sprach Zarathustra" verschafften ihm auch als Schriftsteller Anerkennung.<br><br>
 				
 				Nietzsche verschaffte sich den Ruf als einer der bedeutendster Aphoristiker und Essayist.<br>
-				Besonders die Existenzialphilosophie orientierte sich an der Philosophie Nietzsches.
+				Besonders die Existenzialphilosophie orientierte sich an der Philosophie Nietzsches.<br><br>
+
+				<!-- In seiner Metaphysik begründete Nietzsche alles Dasein<br>
+				als eine durch den Machtwillen geschaffene Erscheinungsform.<br>
+				Das menschliche Dasein betrachtete er als eine "ewige Wiederkehr",<br>
+				die unausweichlich ist. Aufgrund dieser Unausweichlichkeit riet er dazu, dem Schicksal zu folgen,<br>
+				da es keine andere Möglichkeit<br>
+				für den Menschen gibt. In seiner Amor-fati-Formel (Liebe zum Schicksal) liegt die freudige Anerkennung des bestehenden Daseins.<br>
+				Nietzsche wehrte sich gegen spekulatives Denken, was auch seine eigentliche Bedeutung als Philosoph ausmacht.<br>
+				Darüber hinaus plädierte er immer wieder dafür, das Denken in das Leben einzubeziehen.<br><br> -->
 			</Notes>
 		</section>
 	</Slide>
@@ -395,9 +404,9 @@
 				Nietzsche drückt in seinen autobiographischen Aufzeichnungen tief empfundene Religiosität aus, indem er sich von Gott wie ein Kind von seinem Vater geleitet fühlt.<br>
 				Die Beziehung zwischen Schopenhauer und dem Buddhismus beeinflusst auch Nietzsche, der sich in Briefen sogar mit Buddha identifiziert.<br><br>
 				
-				<!-- Seine Haltung zum Buddhismus ist ambivalent (mehrdeutig), von kritischer Analyse bis zur Integration buddhistischer Konzepte in seine Philosophie.<br>
+				Seine Haltung zum Buddhismus ist ambivalent (mehrdeutig), von kritischer Analyse bis zur Integration buddhistischer Konzepte in seine Philosophie.<br>
 				In verschiedenen Werken, nicht nur Briefen, zeigt Nietzsche seine Auseinandersetzung mit dem Buddhismus, wie etwa in einem Zitat aus "Die fröhliche Wissenschaft" von 1882.<br>
-				Dies verdeutlicht die Vielschichtigkeit seiner Beziehung zu diesem Thema.<br><br> -->
+				Dies verdeutlicht die Vielschichtigkeit seiner Beziehung zu diesem Thema.<br><br>
 
 				"Die Praxis des Christenthums ist keine Phantasterei, so wenig die Praxis des Buddhismus sie ist: sie ist ein Mittel; glücklich zu sein …" ~ "Die fröhliche Wissenschaft"
 			</Notes>
@@ -463,23 +472,7 @@
 				die sich an jeden richtet.<br><br>
 				
 				Die geistige Übernahme der Nationalsozialisten, besonders von der Vorstellung des Herrenmenschen, scheiterte daran,<br>
-				dass Nietzsche sowohl Antisemitismus als auch den deutschen Nationalsozialismus rigoros ablehnte.<br><br>
-
-				<!-- In seiner Metaphysik begründete Nietzsche alles Dasein<br>
-				als eine durch den Machtwillen geschaffene Erscheinungsform.<br>
-				Das menschliche Dasein betrachtete er als eine "ewige Wiederkehr",<br>
-				die unausweichlich ist. Aufgrund dieser Unausweichlichkeit riet er dazu, dem Schicksal zu folgen,<br>
-				da es keine andere Möglichkeit<br>
-				für den Menschen gibt. In seiner Amor-fati-Formel (Liebe zum Schicksal) liegt die freudige Anerkennung des bestehenden Daseins.<br>
-				Nietzsche wehrte sich gegen spekulatives Denken, was auch seine eigentliche Bedeutung als Philosoph ausmacht.<br>
-				Darüber hinaus plädierte er immer wieder dafür, das Denken in das Leben einzubeziehen.<br><br>
-
-				Die in der Moderne vorherrschende, christlich geprägte „Sklavenmoral“ ist<br>
-				im Grunde durch Neid motiviert:<br>
-				Weil man von seinen Mitmenschen nicht an Macht und Fähigkeiten übertroffen werden will,<br>
-				fordert man Bescheidenheit, Nächstenliebe und dergleichen.<br>
-				Letztlich aber, so Nietzsche, schaden diese Werte: Sie führen zu ständigen Schuldgefühlen<br>
-				und sind lebensfeindlich.<br><br> -->
+				dass Nietzsche sowohl Antisemitismus als auch den deutschen Nationalsozialismus rigoros ablehnte.<br><br>			
 
 				Neid:<br>
 				- Nietzsche akzeptiert Neid als Teil des Lebens<br>
@@ -490,6 +483,14 @@
 				- Kritik am Christentum, besonders der Sklavenmoral (Werte wie Mitgefühl, Bescheidenheit und Mäßigung werden als tugendhaft gesehen)<br>
 				- Christen wollen Erfüllung, sind aber unfähig, sie zu erreichen<br>
 				- Christliche Werte als Leugnung und Heuchelei<br><br>
+
+				INFO:<br>
+				Die in der Moderne vorherrschende, christlich geprägte „Sklavenmoral“ ist<br>
+				im Grunde durch Neid motiviert:<br>
+				Weil man von seinen Mitmenschen nicht an Macht und Fähigkeiten übertroffen werden will,<br>
+				fordert man Bescheidenheit, Nächstenliebe und dergleichen.<br>
+				Letztlich aber, so Nietzsche, schaden diese Werte: Sie führen zu ständigen Schuldgefühlen<br>
+				und sind lebensfeindlich.<br><br>
 				
 				Alkohol:<br>
 				- Nietzsche trank nur Wasser und Milch<br>
@@ -830,5 +831,3 @@
 		</section>
 	</Slide>
 </Presentation>
-
-<!-- geschätzte Zeit: 10 min 284 sec => 14 min 44 sec -->
