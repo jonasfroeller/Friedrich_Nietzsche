@@ -18,7 +18,7 @@
 		<section>
 			<Split>
 				<Media
-					class="w-auto h-[60vh]"
+					class="w-full h-auto"
 					src={NietzscheImage}
 					alt="Friedrich_Nietzsche"
 					author="https://de.wikipedia.org/wiki/Friedrich_Hermann_Hartmann"
@@ -686,7 +686,7 @@
 
 				<Stack slot="right">
 					<Media
-						class="w-auto h-[60vh]"
+						class="w-full h-auto"
 						src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Friederich_Nietzsche.jpg"
 						alt="Friedrich_Nietzsche"
 						type="img"
@@ -694,7 +694,7 @@
 	
 					<Step>
 						<Media
-							class="w-auto h-[60vh]"
+							class="w-full h-auto"
 							src="https://upload.wikimedia.org/wikipedia/commons/4/44/K%C3%B6selitz-Nietzsche.jpg"
 							alt="Friedrich_Nietzsche"
 							type="img"
@@ -703,7 +703,7 @@
 
 					<Step>
 						<Media
-							class="w-auto h-[60vh]"
+							class="w-full h-auto"
 							src="https://upload.wikimedia.org/wikipedia/commons/9/90/Stamp_Germany_2000_MiNr2131_Friedrich_Nietzsche.jpg"
 							alt="Friedrich_Nietzsche"
 							type="img"
